@@ -40,3 +40,4 @@ else
 fi
 export DT_PATH="device/$OEM/$DEVICE"
 #
+#
